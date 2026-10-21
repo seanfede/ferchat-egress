@@ -1,1 +1,2 @@
-# prueba: una sola salidasocks5://166.0.22.78:40001
+# prueba una salida
+socks5://166.0.22.78:40001
