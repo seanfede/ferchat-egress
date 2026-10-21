@@ -1,0 +1,8 @@
+# ferchat egress - una salida por linea
+# formatos: host:puerto | http://host:puerto | socks5://host:puerto
+# las lineas con # se ignoran. la app lee esto al arrancar y cada 10 minutos.
+socks5://166.0.22.78:40001
+102.244.78.61:8083
+8.215.25.3:2081
+102.244.78.61:8089
+103.82.20.76:8080
